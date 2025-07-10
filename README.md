@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mayank!
 
-🚀 Software Development Engineer | 🛠️ Systems Thinker | 📊 Real-Time Data & Analytics Enthusiast
+🚀 Software Engineer | 🛠️ Systems Thinker | 📊 Real-Time Data & Analytics Enthusiast
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a SDE at [Juspay](https://juspay.in), where I design and build scalable backend systems that power high-volume financial transactions. Passionate about developer tooling, observability, and real-time analytics, I'm currently exploring opportunities to build infrastructure tools for the next generation of data-intensive applications.
+I'm a Software Engineer at [Juspay](https://juspay.in), where I design and build scalable backend systems that power high-volume financial transactions. Passionate about developer tooling, observability, and real-time analytics, I'm currently exploring opportunities to build infrastructure tools for the next generation of data-intensive applications.
 
 ---
 
