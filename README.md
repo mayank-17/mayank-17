@@ -20,8 +20,11 @@ DevOps:       Docker · Kubernetes · Terraform · GitHub Actions
 Tools:        ClickHouse · Grafana · Prometheus · Redis · Nginx
 ```
 
-📈 GitHub Stats
+---
+
+### 📈 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mayank-17&show_icons=true&theme=gruvbox" alt="Mayank's GitHub stats" width="49%"/></p>
 
+---
 
 “Code is poetry. Infra is architecture.”
