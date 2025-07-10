@@ -13,13 +13,11 @@ I'm a Software Engineer at [Juspay](https://juspay.in), where I design and build
 ### ⚒️ Tech Stack
 
 ```bash
-Languages:    C++ · Haskell · Go · Rust · Python · Node.js
-Frameworks:   Express
-Data Infra:   Kafka · Airflow · Spark · ClickHouse · Cassandra · PostgreSQL
-DevOps:       Docker · Kubernetes
-Tools:        Grafana · Prometheus · Redis · Nginx
+Languages: C++, Haskell, Go, Rust, Python, Node.js
+DevOps/Infra: Docker, Kubernetes, Nix
+Monitoring/Tools: Grafana, Prometheus, Redis
+Data Infrastructure: Apache Kafka, Apache Airflow, Apache Spark, ClickHouse, Cassandra, PostgreSQL
 ```
-
 ---
 
 ### 📈 GitHub Stats
