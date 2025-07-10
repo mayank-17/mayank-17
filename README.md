@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank!
 
-<!--
-**mayank-17/mayank-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Development Engineer | 🛠️ Systems Thinker | 📊 Real-Time Data & Analytics Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a SDE at [Juspay](https://juspay.in), where I design and build scalable backend systems that power high-volume financial transactions. Passionate about developer tooling, observability, and real-time analytics, I'm currently exploring opportunities to build infrastructure tools for the next generation of data-intensive applications.
+
+---
+
+### ⚒️ Tech Stack
+
+```bash
+Languages:    Go · Rust · Python · Node.js · Bash
+Frameworks:   FastAPI · Express · Gin
+Data Infra:   Kafka · Airflow · Spark · ClickHouse · Cassandra · PostgreSQL
+DevOps:       Docker · Kubernetes · Terraform · GitHub Actions
+Tools:        ClickHouse · Grafana · Prometheus · Redis · Nginx
+```
+
+📈 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mayank-17&show_icons=true&theme=gruvbox" alt="Mayank's GitHub stats" width="49%"/></p>
+
+
+“Code is poetry. Infra is architecture.”
