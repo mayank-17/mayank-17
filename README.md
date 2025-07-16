@@ -22,7 +22,7 @@ Data Infrastructure: Apache Kafka, Apache Airflow, Apache Spark, ClickHouse, Cas
 ### 📈 Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mayank-17&show_icons=true&theme=github_dark&rank_icon=github" width="50%"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-17&layout=compact&theme=github_dark&hide=jupyter%20notebook" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-17&layout=compact&theme=github_dark&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" width="50%"/>
 </p>
 
 ---
