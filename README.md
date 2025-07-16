@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mayank!
 
-🚀 Software Engineer | 🛠️ Systems Thinker | 📊 Real-Time Data & Analytics Enthusiast
-
+🚀 Software Engineer | 🛠️ Systems Thinker | 📊 Real-Time Data & Analytics
 ---
 
 ### 🧑‍💻 About Me
@@ -12,7 +11,7 @@ I'm a Software Engineer at [Juspay](https://juspay.in), where I design and build
 
 ### ⚒️ Tech Stack
 
-```bash
+```markdown
 Languages: C++, Haskell, Go, Rust, Python, Node.js
 DevOps/Infra: Docker, Kubernetes, Nix
 Monitoring/Tools: Grafana, Prometheus, Redis
@@ -20,10 +19,10 @@ Data Infrastructure: Apache Kafka, Apache Airflow, Apache Spark, ClickHouse, Cas
 ```
 ---
 
-### 📈 GitHub Stats
+### 📈 Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-17&show_icons=true&theme=github_dark&rank_icon=github" alt="Mayank's GitHub stats" width="60%"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-17&layout=compact&theme=github_dark&hide=jupyter%20notebook" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank-17&show_icons=true&theme=github_dark&rank_icon=github" width="50%"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-17&layout=compact&theme=github_dark&hide=jupyter%20notebook" alt="Top Languages" width="50%"/>
 </p>
 
 ---
